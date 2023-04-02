@@ -1,0 +1,16 @@
+#Binares for programs and plugins
+.env
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+.env
+
+#Test binary, built with `Go test -c `
+*.test
+
+#Output of the go coverage tool, specifically whe
+*.out
+
+#Dependecy directories 
